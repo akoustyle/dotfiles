@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maoukola.oneal@gmil.com
+	name = O neal Maoukola
